@@ -1,44 +1,14 @@
-## Hi there 👋
-
-<!--
-**ouiasy/ouiasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ouiasy&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouiasy)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouiasy)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ouiasy&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouiasy)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # 👋 Hi there, I'm [Your Name]!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </div>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Current Project Name]**
-- 🌱 I'm currently learning **TypeScript, Next.js, and Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, JavaScript, React**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I can debug code faster with coffee ☕**
+- 🔭 I'm currently working on **Nothing**
+- 🌱 I'm currently learning **TypeScript, Next.js, Golang and Rust**
+- 👯 I'm looking to collaborate on **Open Source Projects** 
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +23,6 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Backend
@@ -76,25 +45,25 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ouiasy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouiasy&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouiasy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ouiasy&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouiasy&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🎯 Current Focus
@@ -115,9 +84,6 @@ const currentFocus = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 
 </div>
