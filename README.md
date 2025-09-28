@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Nothing**
-- 🌱 I'm currently learning **TypeScript, Next.js, Golang and Rust**
+- 🌱 I'm currently learning **Golang, Rust, Typescript(especially NextJS)**
 - 👯 I'm looking to collaborate on **Open Source Projects** 
 
 ## 🛠️ Tech Stack
