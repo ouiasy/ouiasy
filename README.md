@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Nothing**
+- 🔭 I'm currently working on **auth server**
 - 🌱 I'm currently learning **Golang, Rust, Typescript(especially NextJS)**
 - 👯 I'm looking to collaborate on **Open Source Projects** 
 
