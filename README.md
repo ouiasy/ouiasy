@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ouiasy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouiasy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+</div> -->
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -50,9 +50,9 @@
 </div>
 
 ## 📈 Activity Graph
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouiasy&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
+</div> -->
 
 ## 🎯 Current Focus
 
