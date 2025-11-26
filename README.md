@@ -35,9 +35,7 @@
 [![ouiasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouiasy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ouiasy&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div> -->
+![ouiasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouiasy&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ouiasy)]
 
 ## 📈 Activity Graph
