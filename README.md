@@ -45,9 +45,10 @@
 </div> -->
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ouiasy&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
+</div> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ouiasy)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Activity Graph
 <!-- <div align="center">
