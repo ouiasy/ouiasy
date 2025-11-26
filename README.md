@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ouiasy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouiasy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+</div> -->
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -65,13 +65,8 @@ const currentFocus = {
 };
 ```
 
-## 🌟 Featured Projects
 
-
-
-## 🤝 Connect with Me
-
-<div align="center">
+<!-- <div align="center">
   <p>Always open to interesting conversations and collaboration opportunities!</p>
 </div>
 
@@ -79,7 +74,7 @@ const currentFocus = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ouiasy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+</div> -->
 
 <div align="center">
   ⭐️ From [ouiasy](https://github.com/ouiasy)
